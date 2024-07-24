@@ -44,6 +44,7 @@
                                 <ul class="dropdown-menu">
                                     <li class="nav-item"><a class="nav-link" href="#riwayat">Riwayat Pendidikan</a></li>
                                     <li class="nav-item"><a class="nav-link" href="#event">Events</a></li>
+                                    <li class="nav-item"><a class="nav-link" href="#skill">My Skill</a></li>
                                     <li class="nav-item"><a class="nav-link" href="<?= base_url('home/galeri') ?>">Galeri</a></li>
                                 </ul>
                             </li>

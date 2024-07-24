@@ -23,7 +23,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Acara Dwisasesa 2024</a></h4>
+                            <h4><a href="">Acara Dwisasesa 2024</a></h4>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Lomba Frosity#4 2022</a></h4>
+                            <h4><a href="">Lomba Frosity#4 2022</a></h4>
                         </div>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Game PMR WIRA 2023</a></h4>
+                            <h4><a href="">Game PMR WIRA 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Lomba Paduan Suara 2023</a></h4>
+                            <h4><a href="">Lomba Paduan Suara 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Halal Bi Halal PMR WIRA 2023</a></h4>
+                            <h4><a href="">Halal Bi Halal PMR WIRA 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Kemah Bakti Kepurun 2023</a></h4>
+                            <h4><a href="">Kemah Bakti Kepurun 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Lomba Ladrang 2021</a></h4>
+                            <h4><a href="">Lomba Ladrang 2021</a></h4>
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Kemah Jumbara 2023</a></h4>
+                            <h4><a href="">Kemah Jumbara 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Pembekalan Materi dari Forpis 2023</a></h4>
+                            <h4><a href="">Pembekalan Materi dari Forpis 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -167,7 +167,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Lomba PMR WIRA di Unisri 2023</a></h4>
+                            <h4><a href="">Lomba PMR WIRA di Unisri 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">HUT RI KE 78</a></h4>
+                            <h4><a href="">HUT RI KE 78</a></h4>
                         </div>
                     </div>
                 </div>
@@ -199,7 +199,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Persami Prata SMPN 1 Matesih 2022</a></h4>
+                            <h4><a href="">Persami Prata SMPN 1 Matesih 2022</a></h4>
                         </div>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Acara Nawasena 2023</a></h4>
+                            <h4><a href="">Acara Nawasena 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -231,7 +231,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Kegiatan Hari Jadi Karanganyar ke 103 tahun</a></h4>
+                            <h4><a href="">Kegiatan Hari Jadi Karanganyar ke 103 tahun</a></h4>
                         </div>
                     </div>
                 </div>
@@ -247,7 +247,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">SMKN 2 KRA Menampilkan karya di RRI Surakarta 2022</a></h4>
+                            <h4><a href="">SMKN 2 KRA Menampilkan karya di RRI Surakarta 2022</a></h4>
                         </div>
                     </div>
                 </div>

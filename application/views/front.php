@@ -52,6 +52,7 @@
     </div>
 </section>
 <!--================ End About Us Area =================-->
+
 <!--================ Start Features Area =================-->
 <section class="features_area" id="hobby">
     <div class="container">
@@ -125,7 +126,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Aplikasi Kasir CI 3</a></h4>
+                            <h4><a href="">Aplikasi Kasir CI 3</a></h4>
                         </div>
                     </div>
                 </div>
@@ -141,7 +142,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Pembayaran UKT CI 3</a></h4>
+                            <h4><a href="">Pembayaran UKT CI 3</a></h4>
                         </div>
                     </div>
                 </div>
@@ -157,7 +158,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Aplikasi Kas Buku CI 3</a></h4>
+                            <h4><a href="">Aplikasi Kas Buku CI 3</a></h4>
                         </div>
                     </div>
                 </div>
@@ -173,7 +174,23 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Aplikasi CMS CI 3</a></h4>
+                            <h4><a href="">Aplikasi CMS CI 3</a></h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 all">
+                    <div class="portfolio_box">
+                        <div class="single_portfolio">
+                            <img class="img-fluid w-100" src="<?= base_url('assets/satner-master/') ?>img/catke.jpg" alt="">
+                            <div class="overlay"></div>
+                            <a href="<?= base_url('assets/satner-master/') ?>img/catke.jpg" class="img-gal">
+                                <div class="icon">
+                                    <span class="lnr lnr-cross"></span>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="short_info">
+                            <h4><a href="">Aplikasi Catatan Keuangan Flutter</a></h4>
                         </div>
                     </div>
                 </div>
@@ -253,7 +270,56 @@
         </div>
     </div>
 </div>
+<section class="features_area" id="skill">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <div class="main_title">
+                    <h2>My Skill </h2>
+                </div>
+            </div>
+        </div>
+        <div class="row feature_inner">
+            <div class="col-lg-3 col-md-6">
+                <div class="feature_item">
+                    <i class="fa fa-html5" style="font-size:60px; color:black;"></i>
+                    <h4>HTML</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="feature_item">
+                    <i class="fa fa-css3" style="font-size:60px;color:black;"></i>
+                    <h4>CSS</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="feature_item">
+                    <img src="<?= base_url('assets/satner-master/') ?>img/bootstrap.png" style="width:65px; margin-bottom:3px;"></img>
+                    <h4>Bootstrap</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="feature_item">
+                    <img src="<?= base_url('assets/satner-master/') ?>img/php.png" style="width:65px; margin-bottom:3px;"></img>
+                    <h4>Php</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="feature_item">
+                    <img src="<?= base_url('assets/satner-master/') ?>img/ci.png" style="width:65px; margin-bottom:3px;"></img>
+                    <h4>Codeigniter</h4>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="feature_item">
+                    <img src="<?= base_url('assets/satner-master/') ?>img/flutter.png" style="width:65px; margin-bottom:3px;"></img>
+                    <h4>Flutter</h4>
+                </div>
+            </div>
 
+        </div>
+    </div>
+</section>
 <!-- events -->
 <section class="portfolio_area" id="event">
     <div class="container">
@@ -280,7 +346,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Acara Dwisasesa 2024</a></h4>
+                            <h4><a href="">Acara Dwisasesa 2024</a></h4>
                         </div>
                     </div>
                 </div>
@@ -296,7 +362,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Lomba Frosity#4 2022</a></h4>
+                            <h4><a href="">Lomba Frosity#4 2022</a></h4>
                         </div>
                     </div>
                 </div>
@@ -312,7 +378,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Game PMR WIRA 2023</a></h4>
+                            <h4><a href="">Game PMR WIRA 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -328,7 +394,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Lomba Paduan Suara 2023</a></h4>
+                            <h4><a href="">Lomba Paduan Suara 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -344,7 +410,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Halal Bi Halal PMR WIRA 2023</a></h4>
+                            <h4><a href="">Halal Bi Halal PMR WIRA 2023</a></h4>
                         </div>
                     </div>
                 </div>
@@ -360,7 +426,7 @@
                             </a>
                         </div>
                         <div class="short_info">
-                            <h4><a href="portfolio-details.html">Kemah Bakti Kepurun 2023</a></h4>
+                            <h4><a href="">Kemah Bakti Kepurun 2023</a></h4>
                         </div>
                     </div>
                 </div>
